@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nagah Rady</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 
+- 🌱 I’m currently learning **Next Js**
+
 - 👨‍💻 All of my projects are available at [https://nagahrady0.github.io/portfolio/](https://nagahrady0.github.io/portfolio/)
 
 - 💬 Ask me about **css, bootstrap, javascript, react and redux**
