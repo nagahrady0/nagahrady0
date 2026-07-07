@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Next Js**
 
-- 👨‍💻 All of my projects are available at [https://nagahrady0.github.io/portfolio/](https://nagahrady0.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [https://nagahrady.vercel.app/](https://nagahrady.vercel.app/)
 
 - 💬 Ask me about **css, bootstrap, javascript, react and redux**
 
