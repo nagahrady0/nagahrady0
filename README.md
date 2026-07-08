@@ -51,7 +51,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api?username=nagahrady0&show_icons=true&theme=tokyonight" alt="Nagah's GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nagahrady0&theme=tokyonight" alt="Nagah's GitHub Stats" />
 </p>
 
 ---
