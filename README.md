@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full-Stack / Frontend Developer from Egypt</h3>
 
 <p align="center">
-  <a href="https://nagahrady.vercel.app/" target="_blank"><strong>🌐 Live Portfolio</strong></a> • 
+  <a href="https://nagahrady.site/" target="_blank"><strong>🌐 Live Portfolio</strong></a> • 
   <a href="mailto:nagahrady6@gmail.com"><strong>📧 Contact Me</strong></a>
 </p>
 
